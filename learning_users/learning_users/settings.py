@@ -28,7 +28,7 @@ SECRET_KEY = '6n0r%5+!54qd!k!4lr&@gk4_b^g=-l5ho^a!ef4+qqovs4(skf'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-        'betheymc.pythonanywhere.com',
+        'betheymc.pythonanywhere.com'
         ]
 
 
